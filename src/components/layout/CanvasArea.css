@@ -1,0 +1,14 @@
+.canvas-area {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: auto;
+  background: #f3f4f6;
+  padding: 24px;
+}
+
+.slide-canvas {
+  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.12);
+  border: 1px solid #dcdcdc;
+}

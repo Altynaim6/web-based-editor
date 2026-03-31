@@ -1,0 +1,9 @@
+.text-element {
+  box-sizing: border-box;
+  padding: 4px;
+  cursor: pointer;
+}
+
+.text-element__paragraph {
+  word-break: break-word;
+}

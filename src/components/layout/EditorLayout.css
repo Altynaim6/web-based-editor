@@ -1,0 +1,11 @@
+.editor-layout {
+  display: flex;
+  width: 100%;
+  height: 100vh;
+}
+
+.editor-layout__main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}

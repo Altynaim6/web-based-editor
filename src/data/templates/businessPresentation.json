@@ -1,0 +1,68 @@
+{
+  "slideset": {
+    "filename": "business-presentation.json",
+    "title": "Q4 Business Review",
+    "author": "Student",
+    "creation-date": "2026-03-31",
+    "fonts": [],
+    "master": {
+      "formatting": {},
+      "aspect-ratio": "16:9",
+      "slide-dimensions": {
+        "width": 1280,
+        "height": 720
+      },
+      "dimension-units": "px",
+      "color-theme": []
+    },
+    "layouts": [],
+    "slides": [
+      {
+        "title": {
+          "content": "Q4 Business Review"
+        },
+        "layout-id": "default",
+        "hidden": false,
+        "contents": {
+          "text": [
+            {
+              "id": "text-1",
+              "position": { "x": 120, "y": 100 },
+              "width": 700,
+              "height": 80,
+              "rotation": 0,
+              "overflow": "overflow-visible",
+              "z-index": 1,
+              "background": "transparent",
+              "paragraphs": [
+                {
+                  "id": "p-1",
+                  "formatting": {
+                    "font": "Arial",
+                    "size": "36px",
+                    "color": "#111827",
+                    "weight": "bold",
+                    "italics": false,
+                    "text-decoration": "none",
+                    "align": "left",
+                    "line-spacing": "1.3",
+                    "margin": "0"
+                  },
+                  "runs": [
+                    {
+                      "text": "Q4 Business Review"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "media": [],
+          "background": "#f8fafc",
+          "transition": "fade",
+          "notes": ""
+        }
+      }
+    ]
+  }
+}
